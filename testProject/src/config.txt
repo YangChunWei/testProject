@@ -1,0 +1,28 @@
+#==================================配置说明start==================================
+#tomcatProjectPath: tomcat下工程本地路径
+#tomcatProjectPath=D:\ProjectServer\apache-tomcat-6.0.53\webapps\ROOT
+#projetSvnName:svn中工程名称，方便处理路径来自svn的打包
+#projetSvnName=icap2.0
+#class文件打包示例
+#java文件路径获取：myeclipse-java文件鼠标右键-Properties-Resource-右侧Path 复制src下路径
+#com/app/workflow/action/WfSendexplanationAction.java
+
+#jsp、js等文件打包示例：/basic/exportExcelUtil.jsp
+
+#有疑问 请问杨春唯
+#==================================配置说明end==================================
+tomcatProjectPath=D:\WebServer\apache-tomcat-6.0.41\webapps\ROOT
+projetSvnName=icap2.0
+
+/webservice/jiangsu/updateOrg.jsp
+com/app/webservice/jiangsu/client/action/UnionInfoWebServiceAction.java
+com/app/db/model/WebserviceOrginfoJs.java
+com/app/db/model/WebserviceUserinfoJs.java
+
+#com/app/commonFile/service/CommonFileService.java
+#com/app/commonFile/model/FileInfo.java
+#com/app/db/model/CommonFile.java
+#com/app/db/model/ApplicationForm.java
+#com/app/util/MoneyUtil.java
+#com/app/workflow/action/WFAllAction.java
+com/app/db/model/WfCopyto.java
