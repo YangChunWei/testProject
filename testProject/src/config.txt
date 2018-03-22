@@ -19,6 +19,7 @@ com/app/webservice/jiangsu/client/action/UnionInfoWebServiceAction.java
 com/app/db/model/WebserviceOrginfoJs.java
 com/app/db/model/WebserviceUserinfoJs.java
 
+
 #com/app/commonFile/service/CommonFileService.java
 #com/app/commonFile/model/FileInfo.java
 #com/app/db/model/CommonFile.java
